@@ -1,0 +1,43 @@
+.instructions{
+    font-family: 'Audiowide', cursive;
+    font-size: 1.4rem;
+  }
+  
+  .game-container {
+    grid-area: game;
+    width: 60vw;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 300px;
+    max-width: 900px;
+  }
+  
+  .grid { 
+    display: grid;
+    grid-template-areas: 'nav' 'game' 'footer';
+    grid-template-rows: 75px repeat(2, auto);
+  }
+  
+  #page-wrapper{
+    width: 100vw;
+  }
+  
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .game-img {
+    margin-bottom: 10px;
+  }
+  
+  @media only screen and (max-width: 954px) {
+    .game-container {
+      width: 100vw;
+    }
+  }
