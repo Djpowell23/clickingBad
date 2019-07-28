@@ -65,13 +65,13 @@ class Game extends React.Component {
                 <div className="game-container">
                     <div className="row">
                         <div className="col center">
-                            <h4 className="instructions center">Click on an image to earn points, but don't click on it more than once!</h4>
+                            <h4 className="instructions center">Click on an image to earn points, but don't click it more than once!</h4>
                         </div>
                     </div>
-                    <div className="row">
+                    <div className='row'>
                         {this.state.imgs.map((img, i) => {
                             return (
-                                <Image style={imgStyle}
+                                <Image
                                     img={img.img}
                                     clicked={img.clicked}
                                     key={img.id}
@@ -81,6 +81,7 @@ class Game extends React.Component {
                             )
                         })}
                     </div>
+
                 </div>
                 <Footer />
             </div>
