@@ -4,9 +4,7 @@ import "./Navbar.css";
 
 const Navbar = (props) => (
     <div className="nav-wrapper">
-        {/* <a className="brand-logo">
-            <img className="logo" alt="logo" src="#" />
-        </a> */}
+        <h4 className="center">Clicking Bad</h4>
         <span className="score">Score: {props.score} </span>
     </div>
 );

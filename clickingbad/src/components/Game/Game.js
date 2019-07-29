@@ -5,11 +5,6 @@ import imgs from "../../img";
 import Navbar from "../../Navbar";
 import Footer from "../../Footer";
 
-const imgStyle = {
-    width: '20 %',
-    border: '1px solid black'
-}
-
 // Create a state with count, clicked boolean, score to add up, and the img
 class Game extends React.Component {
     constructor(props) {

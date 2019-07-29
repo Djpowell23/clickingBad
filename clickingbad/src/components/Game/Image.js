@@ -1,7 +1,13 @@
-import React, { Component } from "react";
+import React from "react";
+import "./Game.css"
+
+const imgStyle = {
+    width: "175px",
+    height: "120px"
+}
 
 // Class State
-class Image extends Component {
+class Image extends React.Component {
     imageClick = ({ id, clicked }) => {
         // ???
         if (!this.props.clicked) {
@@ -16,7 +22,7 @@ class Image extends Component {
         const { id, clicked, img } = this.props;
         return (
             <div className="col game-img">
-                <img onClick={e => this.imageClick({ id, clicked })} src={img} alt={"img"} className="hoverable z-depth-2" />
+                <img onClick={e => this.imageClick({ id, clicked })} style={imgStyle} src={img} alt={"img"} className="hoverable z-depth-2" />
             </div>
         )
     }

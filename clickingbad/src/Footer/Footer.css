@@ -1,0 +1,14 @@
+.page-footer {
+    padding: 10px;
+    background-color: #1B1C1C;
+    font-family: 'Audiowide', cursive;
+    grid-area: footer;
+  }
+  
+  .copyright-container {
+    color: #05612b;
+  }
+  
+  .grey-text.text-lighten-4 {
+    color: #05612b !important;
+  }
