@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clickingBad/static/css/main.22cd9597.chunk.css",
+    "main.js": "/clickingBad/static/js/main.a850a363.chunk.js",
+    "main.js.map": "/clickingBad/static/js/main.a850a363.chunk.js.map",
+    "runtime~main.js": "/clickingBad/static/js/runtime~main.b79bacff.js",
+    "runtime~main.js.map": "/clickingBad/static/js/runtime~main.b79bacff.js.map",
+    "static/js/2.9f039cbc.chunk.js": "/clickingBad/static/js/2.9f039cbc.chunk.js",
+    "static/js/2.9f039cbc.chunk.js.map": "/clickingBad/static/js/2.9f039cbc.chunk.js.map",
+    "index.html": "/clickingBad/index.html",
+    "precache-manifest.ea07ef8b479dad494d4be2d5a8fa6dc4.js": "/clickingBad/precache-manifest.ea07ef8b479dad494d4be2d5a8fa6dc4.js",
+    "service-worker.js": "/clickingBad/service-worker.js",
+    "static/css/main.22cd9597.chunk.css.map": "/clickingBad/static/css/main.22cd9597.chunk.css.map",
+    "static/media/buried.jpg": "/clickingBad/static/media/buried.baaff21a.jpg",
+    "static/media/fullMeasure.jpg": "/clickingBad/static/media/fullMeasure.4065cdf6.jpg",
+    "static/media/janeMargolis.jpg": "/clickingBad/static/media/janeMargolis.f13050c5.jpg",
+    "static/media/jesseCar.jpg": "/clickingBad/static/media/jesseCar.5ac542c2.jpg",
+    "static/media/madrigal.jpg": "/clickingBad/static/media/madrigal.6414c7e9.jpg",
+    "static/media/salamancaBros.jpg": "/clickingBad/static/media/salamancaBros.cbdb7c39.jpg",
+    "static/media/saulGoodman.jpg": "/clickingBad/static/media/saulGoodman.373a17ab.jpg",
+    "static/media/skinnyPete.jpg": "/clickingBad/static/media/skinnyPete.e57917ad.jpg",
+    "static/media/waltJesse.jpg": "/clickingBad/static/media/waltJesse.bfc078fa.jpg",
+    "static/media/waltPatient.jpg": "/clickingBad/static/media/waltPatient.fd076f9e.jpg",
+    "static/media/waltPollos.jpg": "/clickingBad/static/media/waltPollos.ed53b900.jpg",
+    "static/media/walterWhite.jpg": "/clickingBad/static/media/walterWhite.51ac43eb.jpg"
+  }
+}
